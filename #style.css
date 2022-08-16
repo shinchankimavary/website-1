@@ -1,0 +1,43 @@
+body
+{
+    background-color: rgb(34, 138, 138);
+}
+.header
+{
+    display: flex;
+    flex-direction: row;
+    flex-flow: row-reverse;
+    justify-content: center;
+    background-color: rgb(160, 117, 62);
+    padding: 50px;
+    font-family: cursive;
+}
+.keziah
+{
+    display: flex;
+    flex-direction: row;
+    gap: 300px;
+    row-gap: 50px;
+}
+.font
+{
+    display: flex;
+    flex-direction: row;
+    gap: 470px;
+    row-gap: 30px;
+    font-style: italic;
+}
+.icons
+{
+    display: flex;
+    justify-content: end;
+    gap: 5px;
+    margin: 5px;
+}
+.ab
+{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    row-gap: 10px;
+}
